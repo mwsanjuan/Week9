@@ -3,7 +3,7 @@
 Project Overview
 For people like me, coding can seem daunting, and it's easy to get caught up in what you could possibly create versus actually creating the apps. I wanted to make a simple app where people can track their favorite writers, organize them by favoriting them, adding bios, or attributing quotes to them.
 
-The app is deployed at week9-rma57kx97-marga-sjs-projects.vercel.app, and this video shows it off [<link>](https://drive.google.com/file/d/1Ofw68r90w1yPrWHOfJIvkbXfB6btXEEg/view?usp=drive_link)
+The app is deployed at week9-rma57kx97-marga-sjs-projects.vercel.app, and this video shows it off https://drive.google.com/file/d/1Ofw68r90w1yPrWHOfJIvkbXfB6btXEEg/view?usp=drive_link
 
 Initial Prompt and Cursor Response
 
